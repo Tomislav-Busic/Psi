@@ -13,6 +13,7 @@ body {
 .header{
     text-align: center;
     padding: 20px 0;
+    background-color: crimson;
     background-image: url('images/dora2.jpg');
     background-repeat: no-repeat;
     background-size: contain;
@@ -21,6 +22,7 @@ body {
 
 .header h1{
     margin: 0 0 10px 0;
+    color: white;
 }
 
 .header select{
